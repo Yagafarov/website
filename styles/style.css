@@ -1,6 +1,7 @@
 :root{
     /* color */
     --blue:#159dff;
+    --blue-op:#f5feff;
 }
 *,*::after,*::before{
     margin: 0;
